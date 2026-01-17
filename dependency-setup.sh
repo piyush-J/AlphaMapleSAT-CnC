@@ -71,8 +71,7 @@ echo "Setting up AlphaMapleSAT..."
 
 # Clone AlphaMapleSAT repository if it doesn't exist
 if [ ! -d "AlphaMapleSAT" ]; then
-    echo "Cloning AlphaMapleSAT repository..."
-    git clone https://github.com/piyush-J/AlphaMapleSAT.git
+    echo "Removed for anonymization - use the other anonymous link to download."
 else
     echo "AlphaMapleSAT repository already exists."
 fi
